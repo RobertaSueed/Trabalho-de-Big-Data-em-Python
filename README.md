@@ -11,4 +11,4 @@ Natanael Henrique Encarnação Das Mandias: https://github.com/Natanaelhenriqu/T
 
 Paulo Henrique Leal Dos Santos: https://github.com/lealhenriq/analisededadostopicodebigdataempython
 
-Roberta Sued Nascimento Gomes De Santana:
+Roberta Sued Nascimento Gomes De Santana: https://github.com/RobertaSueed/Trabalho-de-Big-Data-em-Python
